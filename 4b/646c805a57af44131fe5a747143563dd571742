@@ -1,0 +1,31 @@
+pyproject.toml
+  s_803e217bd89a6c::t_1b7859bf803540 44
+src/openenv/core/containers/runtime/daytona_provider.py
+  s_803e217bd89a6c::t_c569c5437b958c 6
+tests/validation_runtime/uv.lock
+  s_cc2f8e681b34c6::t_ec77683dd5bdb1 1264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b646c805a57af44131fe5a747143563dd571742",
+  "prompts": {},
+  "sessions": {
+    "s_803e217bd89a6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "unknown"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    },
+    "s_cc2f8e681b34c6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
